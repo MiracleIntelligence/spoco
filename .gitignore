@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Spoco.WiFi/Debug/
+Spoco.Sound/Debug/
+Spoco.Locko/Debug/
